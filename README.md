@@ -23,5 +23,4 @@
 
 - 🌐 Website: [vdhyutidhara.com](https://vdhyutidhara.com)
 - 💼 LinkedIn: [vdhyutidhara](https://www.linkedin.com/in/vdhyutidhara/)
-- 🔗 GitHub: [invdhyutidhara](https://github.com/invdhyutidhara)
 - 📧 Email: [vinay.dhyutidhara@gmail.com](mailto:vinay.dhyutidhara@gmail.com)
